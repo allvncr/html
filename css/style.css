@@ -308,6 +308,16 @@ h6 { font-size: 16px; }
 	align-items: center;
 	justify-content: space-between;
 }
+.aali_tm_mobile_menu .mobile_in .logo {
+	font-size: 32px;
+	font-weight: 700;
+	color: #3c3c3c;
+}
+.aali_tm_header .logo {
+	font-size: 32px;
+	font-weight: 700;
+	color: #fff;
+}
 .aali_tm_mobile_menu .mobile_in .logo img{
 	max-width: 70px;
 	max-height: 50px;
